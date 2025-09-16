@@ -1,4 +1,5 @@
 # Exploratory Data Analysis on Super Store Dataset
+
 This project reveals key insights into product sales and profitability across U.S based on the Super store dataset.
 - California and New York states showed the highest profit while states like Texas and Ohio incurred losses.
 <img width="1168" height="459" src="https://github.com/user-attachments/assets/8d19a685-3256-4d1d-93e1-8090ae47f2a4" />
